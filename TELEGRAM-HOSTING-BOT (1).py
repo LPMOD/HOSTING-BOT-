@@ -949,4 +949,4 @@ def start_bot():
 # Main execution
 if __name__ == "__main__":
     logger.info("Starting 24x7 Danger Hosting Bot...")
-    start_bot() 909052001 909052002
+    start_bot()
