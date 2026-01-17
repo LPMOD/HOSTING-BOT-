@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import os
 import sys
 import subprocess
@@ -949,4 +948,4 @@ def start_bot():
 # Main execution
 if __name__ == "__main__":
     logger.info("Starting 24x7 Danger Hosting Bot...")
-    start_bot()
+    start_bot() 
