@@ -1,13 +1,3 @@
 pyTelegramBotAPI
-psutil
 requests
-urllib3
-aiohttp
-PyJWT
-cryptography
-pytz
-python-dateutil
-flask
-rich
-colorama
-watchdog
+psutil
